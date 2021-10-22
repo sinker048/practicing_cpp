@@ -10,7 +10,7 @@ int main(){
     int current_grade;
     cout<<"Please enter number of students in the class:(not more than"<<Max_student<<")"<<endl;
     cin>>numberofstudent;
-    cout<<"Please enter their grades"<<endl;
+    cout<<"Please enter their grades(sperated by a space"<<endl;
     // read the grade
     for(i = 0; i<numberofstudent; i++){
         cin>>current_grade;
