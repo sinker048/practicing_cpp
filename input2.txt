@@ -1,0 +1,6 @@
+1	100	Daniel Katz
+2	90	John H. Jones
+3	35	Samuel Beckett
+4	95	George Washington
+5	50	A. Scott Crossfield
+6	100	E. F. Johnson
